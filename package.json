@@ -1,0 +1,9 @@
+{
+  "name": "landing-agendamento-camile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "preview": "node dev-server.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

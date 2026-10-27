@@ -1,0 +1,7 @@
+.env
+.env.*
+!servidor-opcional/.env.example
+node_modules/
+.claude/
+.taste-skill/
+DESIGN.md

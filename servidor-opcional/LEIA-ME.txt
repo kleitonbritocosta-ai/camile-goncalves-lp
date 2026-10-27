@@ -1,0 +1,4 @@
+Esta pasta guarda a versão com servidor (Vercel + Supabase), caso um dia você queira
+registrar cada clique em um banco e enviar o Lead também pela API de Conversões da Meta.
+O site publicado no GitHub Pages NÃO usa nada daqui. Para usar, seria preciso mover estes
+arquivos de volta para a raiz do projeto e ajustar o public/app.js e o public/obrigado.js.
