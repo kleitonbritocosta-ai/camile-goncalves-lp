@@ -5,3 +5,6 @@ node_modules/
 .claude/
 .taste-skill/
 DESIGN.md
+
+.vercel
+.env*
